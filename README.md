@@ -31,6 +31,12 @@
 ### 积极情绪识别
 ![positive](./demo-positive.png)
 
+## 🔄 工作流结构
+![workflow](./workflow.png)
+
+## 📷 输出效果
+![result](./result.png)
+
 ## 💡 项目收获
 - 理解AI系统如何拆解为多个步骤
 - 掌握基础“决策型AI”设计思路
