@@ -21,7 +21,15 @@
 - Workflow思维（多步骤任务拆解）
 
 ## 📷 项目演示
-（在这里放截图）
+
+### 消极情绪识别
+![negative](./demo-negative.png)
+
+### 中性情绪识别
+![neutral](./demo-neutral.png)
+
+### 积极情绪识别
+![positive](./demo-positive.png)
 
 ## 💡 项目收获
 - 理解AI系统如何拆解为多个步骤
